@@ -359,12 +359,14 @@ Link: [Google][googlelink]
 ## 2.8. 이미지
 
 ```
-![대체 텍스트](/right/path/to/img.jpg)
 ![대체 텍스트](/wrong/path/to/img.jpg)
+![대체 텍스트](/right/path/to/img.jpg)
+![대체 텍스트](사진 url)
 ```
 
-![대체 텍스트](/git/마크다운(Markdown)/resource/img/whale.jpg)
-![대체 텍스트](/!git/마크다운(Markdown)/resource/img/whale.jpg)
+![대체 텍스트](/!git/Markdown/resource/img/whale.jpg)   
+![대체 텍스트](/git/Markdown/resource/img/whale.jpg)   
+![대체 텍스트](https://wallpapershome.com/images/pages/pic_h/18612.jpg)   
 
 ## 2.9. 줄바꿈
 3칸이상 띄어쓰기 "   " 또는 ```<br>``` 을 사용하면 줄이 바뀐다.
